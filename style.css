@@ -1,0 +1,9 @@
+.result {
+    background-color: rgba(219, 219, 224, 0.644);
+    border-radius: 10px;
+    font-size: 30px;
+	height: 100px;
+    width: 50%;
+	padding: 1.5rem;
+    border: 3px rgb(4, 21, 253) solid;
+}
